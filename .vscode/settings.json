@@ -1,4 +1,6 @@
 {
     "python.pythonPath": "d:\\Anaconda\\envs\\paper\\python.exe",
-    "python.dataScience.jupyterServerURI": "local"
+    "python.dataScience.jupyterServerURI": "local",
+    "java.checkstyle.configuration": "/google_checks.xml",
+    "java.checkstyle.version": "8.36.2"
 }
